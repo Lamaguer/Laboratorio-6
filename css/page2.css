@@ -1,0 +1,19 @@
+.sub{
+    color:rgb(209, 195, 177)
+}
+.imgTung{
+    min-height: 200px;
+    max-height: 300px;
+    object-fit:cover;
+}
+.blacktung{
+    background-color: black;
+    opacity: .80;
+}
+.text-justify{
+    text-align: justify;
+}
+.verity{
+    position:absolute;
+    left: 10%;
+}

@@ -5,3 +5,30 @@
     flex:auto;
 
 }
+.decoration{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+.text-justify{
+    text-align: justify;
+}
+.image2{
+    display: flex;
+    height: 400px;
+    width: auto;
+    flex:auto;
+}
+.footext{
+color:rgb(80, 143, 199);
+}
+html,body#gradienttheme {
+    min-height: 100%;
+}
+
+body#gradienttheme {
+    min-height: 100vh;
+    background: linear-gradient(to top, rgb(5, 21, 54), rgb(23, 23, 24));
+    background-size: cover;
+    background-repeat: no-repeat;
+}

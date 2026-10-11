@@ -1,0 +1,21 @@
+.text-justify{
+    text-align: justify;
+}
+.imgTung{
+    height: auto;
+    min-height: 300px;
+    max-height: 300px;
+    object-fit:fill;
+}
+.image{
+    height: 200px;
+    width: 200px;
+    object-fit: fill;
+}
+.trueno{
+    position: absolute;
+    opacity: 0.05;
+    padding:0;
+    top:0%;
+    pointer-events: none;
+}
